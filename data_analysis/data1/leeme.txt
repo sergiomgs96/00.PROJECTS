@@ -1,0 +1,16 @@
+Data 1
+# The following program experiments with Print and display functions. Adds a Header row to the dataframe
+# and finally creates "dataframe.csv". The dataframe that will be used in data2.py
+
+Data 2
+# Este código tiene por objetivo mostrar los principales comandos de visualización del df durante la programación.
+
+Proj3
+# This code is used for cleaning the dataframe. It will "drop" or "replace" the non-valid rows and values.
+# We will explore different methods focussing on the column "normalized-losses".
+# Some problematic values have been added to this column such as: "?", "", "NaN", "0"
+# Como ejercicio adicional se mostrará 'normalized-losses' en diferentes escalas: SFS, Min-Max y Z-Score
+
+Proj4
+ #  The objective is to bin the price (column 27 the last one) into a range of different bins.
+ #  We will get also the dummy variables of "fuel" column.

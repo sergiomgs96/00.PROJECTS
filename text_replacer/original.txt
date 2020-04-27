@@ -1,0 +1,11 @@
+NOMBRE;ID;EDAD
+Alberto;01;18
+Beatriz;02;24
+Carlos;03;33
+Daniel;04;13
+Eva;05;45
+Fabiolo;06;67
+Germán;07;80
+Hermmans;08;50
+Ioao;09;99
+Juan;10;25

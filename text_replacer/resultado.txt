@@ -1,0 +1,11 @@
+NOMBRE;ID;EDAD
+Alberto;01;18
+Bebtriz;02;24
+Cbrlos;03;33
+Dbniel;04;13
+Evb;05;45
+Fbbiolo;06;67
+Germán;07;80
+Hermmbns;08;50
+Iobo;09;99
+Jubn;10;25
