@@ -14,3 +14,8 @@ Proj3
 Proj4
  #  The objective is to bin the price (column 27 the last one) into a range of different bins.
  #  We will get also the dummy variables of "fuel" column.
+
+Proj5
+ #  The objective is to deal with missing data for every column.
+ #  The data replaced is the non-valid arguments and the 121.74233128834356 repeating value
+ #  The ressult will be database_clean for working in Proj 6
